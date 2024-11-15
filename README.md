@@ -1,8 +1,8 @@
-# Automatic Image Captioning in facial emotion dataset
+# Image Captioning in facial emotion 
 
 ## Description
 
-This is the code repo for UCD final year project: Automatic Image Captioning in facial emotion dataset
+This is the code repo for UCD final year project: Image Captioning in facial emotion 
 
 The project develops an appropriate model for images containing human faces that provides a more accurate and impact caption. 
 
@@ -26,7 +26,7 @@ No prerequisite required.
 
 1. Clone or download the repo
    ```sh
-   git clone https://csgitlab.ucd.ie/nanwu/automatic-image-captioning-in-facial-emotion-dataset.git
+   git clone https://github.com/adarshsharma-18/emotional-image-captioning-MLModel
    ```
 2. Upload all files to [Google Colab](https://colab.research.google.com)
    
@@ -62,9 +62,6 @@ Run:
 
    This script requires flickr5k_model.h5 and evaluation images
 
-## Contact
-
-Nan Wu - nan.wu1@ucdconnect.ie
 
 
 
